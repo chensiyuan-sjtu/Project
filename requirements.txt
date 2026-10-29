@@ -1,0 +1,6 @@
+torch==2.6.0
+torchvision==0.21.0
+timm==1.0.15
+fvcore==0.1.5.post20221221
+einops==0.8.1
+triton==3.2.0; sys_platform == "linux"
